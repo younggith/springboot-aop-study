@@ -1,0 +1,12 @@
+[2023-02-05 23:21:31:128144139][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임 키값이 없습니다.
+[2023-02-05 23:21:31:128144143][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임을 입력하세요.
+[2023-02-05 23:24:42:128335189][http-nio-9090-exec-1] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임을 입력하세요.
+[2023-02-05 23:24:42:128335195][http-nio-9090-exec-1] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임 키값이 없습니다.
+[2023-02-05 23:25:07:128359820][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임을 입력하세요.
+[2023-02-05 23:25:07:128359827][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임 키값이 없습니다.
+[2023-02-05 23:48:24:18853][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임 키값이 없습니다.
+[2023-02-05 23:48:24:18858][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임을 입력하세요.
+[2023-02-05 23:50:13:127317][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임을 입력하세요.
+[2023-02-05 23:50:13:127323][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임 키값이 없습니다.
+[2023-02-05 23:52:04:238259][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임 키값이 없습니다.
+[2023-02-05 23:52:04:238321][http-nio-9090-exec-2] WARN  c.cos.person.config.BindingAdvice - com.cos.person.web.UserController, save() => 필드 : username, 메세지 : 유저네임을 입력하세요.
